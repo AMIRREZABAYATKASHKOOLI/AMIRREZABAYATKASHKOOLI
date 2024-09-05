@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m AMIRREZA😎<br>🖥️ I'm Python Programmer. Creating Telegram Bots and Design Web with Flask Framework, Proficient in HTML,CSS<br>👀 I’m interested in AI🧠<br>🌱 I’m currently learning Kivy🐍<br>💞️ I’m looking to collaborate on Knowledge based and AI companies
+👋 Hi, I’m AMIRREZA😎<br>🖥️ I'm Python Programmer. Creating Telegram Bots and Web Design with Flask Framework, Proficient in HTML,CSS<br>👀 I’m interested in AI🧠<br>🌱 I’m currently learning Kivy🐍<br>💞️ I’m looking to collaborate on Knowledge based and AI companies
 
 
 ## 🌐 Socials:
